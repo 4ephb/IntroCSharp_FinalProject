@@ -30,11 +30,11 @@ _["Russia", "Denmark", "Kazan"] -> []_
 
 ### __3. Снабдить репозиторий оформленным текстовым описанием решения (файл README.md)__
 
-[README.md](https://github.com/4ephb/IntroCSharp_FinalProject/blob/programmer/README.md)
+[README.md](https://github.com/4ephb/IntroCSharp_FinalProject/blob/main/README.md)
 
 ### __4. Написать программу, решающую поставленную задачу__
 
-[Код программы](https://github.com/4ephb/IntroCSharp_FinalProject/Program.cs)
+[Код программы](https://github.com/4ephb/IntroCSharp_FinalProject/blob/main/Program.cs)
 
 ### __5. Использовать контроль версий__
 

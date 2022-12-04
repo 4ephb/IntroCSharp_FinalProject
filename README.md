@@ -24,19 +24,8 @@ _["Russia", "Denmark", "Kazan"] -> []_
 
 ### __2. Нарисовать блок-схему алгоритма__  
 
-![Блок-схема основная](flowchart_main.jpg)
-![Блок-схема методов 1, 2, 3](flowchart_methods_1-3.jpg)
-![Блок-схема методов 4, 5, 6](flowchart_methods_4-6.jpg)
+![Блок-схема](flowchart.jpg)
 
 ### __3. Снабдить репозиторий оформленным текстовым описанием решения (файл README.md)__
 
-[README.md](https://github.com/4ephb/IntroPython/blob/reviewer/Seminars/README.md)
 ### __4. Написать программу, решающую поставленную задачу__
-
-[Код программы](https://github.com/4ephb/IntroCSharp_FinalProject/Program.cs)
-
-### __5. Использовать контроль версий__
-
-- Блок-схемы добавлены
-- Описание решения добавлены
-- Код программы добавлен
